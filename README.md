@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Metin Topcu<br>I'm currently working on react and .net as full stack developer.
+I'm Metin Topcu<br>I am currently working as a full stack developer on .NET, React and ASP.NET MVC.
 
 
 ## 🌐 Socials:
